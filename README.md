@@ -23,12 +23,5 @@ Anubis 8.0 Android RAT
 
 11-GET BANK INFO WITH MORE INJECTION,
 
-![alt text]([http://url/to/img.png](https://craxpro.io/attachments/anubis1-crax-pro-crax-tube-png.27703/))
 
-![alt text]([[http://url/to/img.png](https://craxpro.io/attachments/anubis-crax-pro-crax-tube-png.27704/)])
-
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-
-![resim](https://craxpro.io/attachments/anubis-crax-pro-crax-tube-png.27704)
+![resim]([https://craxpro.io/attachments/anubis-crax-pro-crax-tube-png.27704](https://www.hizliresim.com/plq0r2s))
