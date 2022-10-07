@@ -22,3 +22,6 @@ Anubis 8.0 Android RAT
 10-SOCKS5 CONNECTIONS,
 
 11-GET BANK INFO WITH MORE INJECTION,
+![alt text]([http://url/to/img.png](https://craxpro.io/attachments/anubis1-crax-pro-crax-tube-png.27703/))
+![alt text]([http://url/to/img.png](https://craxpro.io/attachments/anubis-crax-pro-crax-tube-png.27704/))
+
