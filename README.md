@@ -1,3 +1,12 @@
+Anubis 8.0 was designed as an Android RAT.
+Actually 8.0 was not developed by its author.
+It was slightly modified by another developer and called 8.0.
+I'm sharing it to use as a pentest.
+I take absolutely no responsibility.
+Responsibility belongs to the User.
+If you want detailed information about Anubis, you can contact me.
+
+
 # Anubis-8.0
 Anubis 8.0 Android RAT
 
