@@ -30,4 +30,5 @@ Anubis 8.0 Android RAT
 ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-https://craxpro.io/attachments/anubis-crax-pro-crax-tube-png.27704/
+
+![resim](https://craxpro.io/attachments/anubis-crax-pro-crax-tube-png.27704)
